@@ -55,10 +55,6 @@
 
 
 ### Проект выполнили:
-
-[Константин Майоров](https://github.com/selysse)
-
-[Юлия Фокина](https://github.com/foookinaaa)
-
-[Алина Щукина](https://github.com/alinashchukina)
-
+Константин Майоров
+Юлия Фокина
+Алина Щукина
