@@ -2,7 +2,7 @@
 
 ## Прогнозирование возникновения страховых случаев по данным автострахования для резервирования денежных средств на возмещение по страховым случаям.
 
-![GitHub Logo](https://autovitokaluga.ru/upload/2.jpg)
+![Peek 2021-08-31 12-47](https://user-images.githubusercontent.com/74900958/131481816-6af412d2-621b-44fb-8a1b-e3600be1ff57.gif)
 
 <details>
 <summary><b>Описание</b></summary>
