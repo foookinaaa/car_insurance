@@ -16,7 +16,7 @@ defusedxml==0.7.1
 dill==0.3.4
 entrypoints==0.3
 fastapi==0.109.1
-Flask==2.0.1
+Flask==2.2.5
 graphviz==0.17
 gunicorn==22.0.0
 h11==0.12.0
